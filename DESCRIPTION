@@ -1,10 +1,14 @@
 Package: rstattoys
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Statistics Toys and Visualisations
 Version: 0.1
 Date: 2015-10-26
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Martin John Hadley
+Maintainer: Martin John Hadley <martinjohnhadley@gmail.com>
+Description: This package contains a variety of tools and visualisations for
+  analysing and presenting data, they do not have a strong
+  thematic connection and may be split into other packages in the future.
 License: What license is it under?
 LazyData: TRUE
+Imports: ggplot2
+
