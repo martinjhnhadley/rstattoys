@@ -11,4 +11,5 @@ Description: This package contains a variety of tools and visualisations for
 License: What license is it under?
 LazyData: TRUE
 Imports: ggplot2
-
+Suggests: knitr
+VignetteBuilder: knitr
